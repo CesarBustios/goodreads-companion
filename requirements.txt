@@ -8,6 +8,6 @@ Pillow==7.0.0
 rauth==0.7.3
 requests==2.22.0
 six==1.13.0
-urllib3==1.25.7
+urllib3==1.26.5
 wxPython==4.0.7.post2
 xmltodict==0.12.0
