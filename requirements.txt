@@ -3,7 +3,7 @@ betterreads==0.4.2
 certifi==2019.11.28
 chardet==3.0.4
 idna==2.8
-numpy==1.18.0
+numpy==1.22.0
 Pillow==7.0.0
 rauth==0.7.3
 requests==2.22.0
